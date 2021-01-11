@@ -6,9 +6,9 @@ package library.example
 import kotlin.test.Test
 import kotlin.test.assertTrue
 
-class LibraryTest {
+class LibraryExampleTest {
     @Test fun testSomeLibraryMethod() {
-        val classUnderTest = Library()
+        val classUnderTest = LibraryExample()
         assertTrue(classUnderTest.someLibraryMethod(), "someLibraryMethod should return 'true'")
     }
 }

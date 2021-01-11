@@ -3,7 +3,7 @@
  */
 package library.example
 
-class Library {
+class LibraryExample {
     fun someLibraryMethod(): Boolean {
         return true
     }
